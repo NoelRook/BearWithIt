@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is an AI companion software that uses AWS Bedrock, Transcribe, and Polly's APIs for its querying, and speech-to-text, and text-to-speech features.  
+This is an AI companion software that uses AWS Bedrock, Transcribe, and Polly's APIs for its querying, and speech-to-text, and text-to-speech features. Image recognition libraries like OpenCV is used in order to detect the user's eyes through accessing the laptop's webcam. 
 <!--
 ### Built With
 
