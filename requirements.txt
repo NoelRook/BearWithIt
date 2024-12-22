@@ -1,0 +1,12 @@
+opencv-python
+deepface
+tf_keras
+playsound == 1.2.2
+pydub
+pyaudio
+sounddevice 
+amazon-transcribe 
+ffmpeg
+ffmpeg-python
+ffprobe
+boto3
